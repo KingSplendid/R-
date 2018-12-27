@@ -1,2 +1,1 @@
-# R-In-Action-Screenshot
-《R语言实战学习》
+《R语言实战》学习笔记
